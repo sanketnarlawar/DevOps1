@@ -1,2 +1,6 @@
 "Hello World" 
-"Feature added" 
+<<<<<<< HEAD
+Main code
+=======
+Feature code
+>>>>>>> feature-branch
